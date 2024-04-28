@@ -57,6 +57,13 @@ h3 {
     text-align: center;
 }
 
+/*added h4 so that all heading attributes fall in sequential order*/
+h4 {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+
 /*removed individual classes x3 and used the img element to define these images since they had the same requirements*/
 img {
     max-height: 200px;
