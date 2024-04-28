@@ -8,11 +8,11 @@ I adjusted or "cleaned up" the HTML and CSS code for the Horiseon Social Solutio
 This webpage is designed for use on a computer but will function on other platforms. I removed all div containers and replaced them with appropriate symantic HTML elements such as section. figure, aside, article, and header. I then used these symantic elements in CSS to cut down on excess code by grouping like elements together with class selectors and using id selectors for unique individual items. The style sheet went from 200 lines of code down to 149 lines in an attempt to "leave the code a little cleaner than I found it." The Search Engine Optimization link on the header now functions as it should, bringing you down to the SEO section of the webpage through correcting the HTML code to follow symantic guidelines for greater accessibility.
 
 ## Visuals
-![screenshot](""C:\Users\Burner\Pictures\Screenshots\Screenshot 2024-04-28 171751.png" "links in header")
+![plot](""C:\Users\Burner\Pictures\Screenshots\Screenshot 2024-04-28 171751.png" "links in header")
 In this screenshot you see the links in the header of the webpage, upon clicking an individual one they take you to the specific section of the webpage that you clicked on.
-![screenshot]("C:\Users\Burner\Pictures\Screenshots\Screenshot 2024-04-28 171802.png" "where links in header take you")
+![plot]("C:\Users\Burner\Pictures\Screenshots\Screenshot 2024-04-28 171802.png" "where links in header take you")
 This screenshot demonstrates a section that one of the links in the header will take you to.
-![screenshot]("C:\Users\Burner\Pictures\Screenshots\Screenshot 2024-04-28 171515.png" "HTML code screenshot")
+![plot]("C:\Users\Burner\Pictures\Screenshots\Screenshot 2024-04-28 171515.png" "HTML code screenshot")
 This screenshot demonstrates the HTML code of the lead generation section in the aside container portion of the webpage.
 
 ## Usage
