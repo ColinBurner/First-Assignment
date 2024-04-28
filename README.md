@@ -9,10 +9,15 @@ This webpage is designed for use on a computer but will function on other platfo
 
 ## Visuals
 ![Screenshot 2024-04-28 171751](https://github.com/ColinBurner/First-Assignment/assets/85810714/a9ab6d30-fd60-46d9-be14-c1dd9c163cfe)
+
 In this screenshot you see the links in the header of the webpage, upon clicking an individual one they take you to the specific section of the webpage that you clicked on.
+
 ![Screenshot 2024-04-28 171802](https://github.com/ColinBurner/First-Assignment/assets/85810714/54c29aff-6596-4180-a79f-46fca7381193)
+
 This screenshot demonstrates a section that one of the links in the header will take you to.
+
 ![Screenshot 2024-04-28 171515](https://github.com/ColinBurner/First-Assignment/assets/85810714/0436f7bb-637f-4533-bc7b-62d8a414a368)
+
 This screenshot demonstrates the HTML code of the lead generation section in the aside container portion of the webpage.
 
 ## Usage
