@@ -1,7 +1,7 @@
 # Horiseon Social Solution Services HTML and CSS code cleanup with accessability features
 
 ## What I did to accomplish goals in this project
-I adjusted or "cleaned up" the HTML and CSS code for the Horiseon Social Solution Services webpage in order to simplify it and make future edits easier. This marketing agency wanted a codebase that better follows accessibility standards to make their webpage optimized for search engines. I used semantic HTML elements to better define the sections of the HTML code. I used element and class selectors in CSS to group previously ungrouped but same end goal items.
+I adjusted or "cleaned up" the HTML and CSS code for the Horiseon Social Solution Services webpage in order to simplify it and make future edits easier. This marketing agency wanted a codebase that better follows accessibility standards to make their webpage optimized for search engines. I used semantic HTML elements to better define the sections of the HTML code and create a more accessible webpage. I used element and class selectors in CSS to group previously ungrouped but same end goal items.
 
 ## How I accomplished my goals with this project
 This webpage is designed for use on a computer but will function on other platforms.
