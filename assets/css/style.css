@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
+/*grouped multiple instances of h1 selector into one requirement*/
+h1 {
+    display: inline-block;
+    font-size: 48px;
+    color: white;
+}
+
+/*grouped what was previously two split ul selectors into one requirement*/
+ul {
+    padding-top: 15px;
+    margin: 0px 15px 20px 10px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+/*grouped multiple instances of li selector into an individual selector*/
+li {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+/*added display and margin properties to the a selector*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 0px;
+}
+
+p {
+    font-size: 16px;
+}
+
+/*removed all classes for h2 and structed them all under the h2 element because they all had the same requirements*/
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*Removed all classes for benefit and grouped them all under h3 element since they all had the same requirements*/
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/*added h4 so that all heading attributes fall in sequential order*/
+h4 {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+
+/*removed individual classes x3 and used the img element to define these images since they had the same requirements*/
+img {
+    max-height: 200px;
+}
+
+/*removed individual classes x3 and added the figure element to cover all 3 since they had the same requirements*/
+figure {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+  
+}
+
+/*removed individual classes x3 and used article element to group them since they had the same requirements*/
+article {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/*made seo an individual selector*/
+.seo {
+    color: #d9dcd6;
+}
+
+/*removed div and deleted excess elements from the header*/
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.footer {
+    margin: 15px;
+    line-height: 2px;
+    padding: 30px 0px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
+
+/*grouped all images from this section titled benefit to create one single id that they all use*/
+#benefit img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
