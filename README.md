@@ -23,6 +23,9 @@ This screenshot demonstrates the HTML code of the lead generation section in the
 ## Usage
 There are 3 links at the top of the webpage in the header container using these links you can navigate to a specific section of the webpage to learn more about a topic.
 
+Visit the website at this URL:
+https://colinburner.github.io/Horiseon-SSS-Assignment/
+
 ## For support issues, contact me at the email below
 <a href="mailto: b2rn3r@yahoo.com">b2rn3r@yahoo.com</a>
 
