@@ -16,6 +16,10 @@ In this screenshot you see the links in the header of the webpage, upon clicking
 
 This screenshot demonstrates a section that one of the links in the header will take you to.
 
+![screencapture-colinburner-github-io-Horiseon-SSS-Assignment-2024-04-28-19_27_55](https://github.com/ColinBurner/Horiseon-SSS-Assignment/assets/85810714/3747de58-050f-4fa8-858d-7b6c0716dc60)
+
+This screenshot shows the entire webpage.
+
 ![Screenshot 2024-04-28 171515](https://github.com/ColinBurner/First-Assignment/assets/85810714/0436f7bb-637f-4533-bc7b-62d8a414a368)
 
 This screenshot demonstrates the HTML code of the lead generation section in the aside container portion of the webpage.
